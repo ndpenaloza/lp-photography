@@ -5,7 +5,7 @@ class Portfolio extends Component {
     return(
       <div>
         <h1>
-          This is the contact page
+          This is the portfolio page
         </h1>
       </div>
     )
