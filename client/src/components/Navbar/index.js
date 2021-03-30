@@ -2,6 +2,7 @@ import React from 'react';
 
 function Navbar() {
   return(
+    <div className='navbar-fixed'>
     <nav>
     <div class="nav-wrapper">
       <a href="/home" className="brand-logo center">Liza Penaloza</a>
@@ -12,6 +13,7 @@ function Navbar() {
       </ul>
     </div>
   </nav>
+  </div>
   )
 }
 
