@@ -18,6 +18,15 @@ footer {
 	margin-top: auto;
 }
 
-#contact-form {
-	margin-bottom: 100px;
+nav {
+	background-color: black !important;
+}
+
+.page-footer {
+	background-color: black !important;
+}
+
+.btn-large {
+	margin-left: 10px;
+	margin-right: 10px;
 }
