@@ -17,7 +17,7 @@ function ContactForm() {
       stiffness: 260,
       damping: 20
     }}
-    className='container'>
+    className='container' id='contact-form'>
     <div className="row">
     <form className="col s12">
       <div className="row">

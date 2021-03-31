@@ -6,9 +6,7 @@ class Contact extends Component {
   render() {
     return(
       <div>
-        <header>
           <Navbar/>
-        </header>
         <h1 className='head-text'>
           Contact
           </h1>

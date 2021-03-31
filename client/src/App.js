@@ -10,10 +10,7 @@ import "materialize-css/dist/css/materialize.min.css";
 
 function App() {
   return (
-    <div className="App">
-      <header>
-      </header>
-      <main>
+    <div className='App'>
       <Router>
         <Switch>
           <Route exact path='/' component={Index}/>
@@ -22,10 +19,7 @@ function App() {
           <Route exact path='/contact' component={Contact}/>
         </Switch>
       </Router>
-      </main>
-      <footer>
       <Footer/>
-      </footer>
     </div>
   );
 }
